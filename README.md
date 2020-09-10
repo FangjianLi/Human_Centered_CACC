@@ -1,7 +1,7 @@
 # Human_Centered_CACC
 The codes and animations for the paper ``Cooperative adaptive cruise control for string stable mixed traffic: Benchmark and human-centered design"
 
-## Cite this paper:
+## The citation of this paper:
 Li, Fangjian, and Yue Wang. "Cooperative adaptive cruise control for string stable mixed traffic: Benchmark and human-centered design." IEEE Transactions on Intelligent Transportation Systems 18.12 (2017): 3473-3485.
 
 ## The links of this paper:
