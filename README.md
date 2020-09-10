@@ -11,7 +11,7 @@ You can download it from [IEEE website](https://ieeexplore.ieee.org/stamp/stamp.
 MATLAB 2016a or newer
 
 1. Benchmark CACC: codes/beforempa_update.m
-2. Human-centered CACC:
+2. Human-centered CACC: codes/simulation_macc_update.m
 
 ## Visulization of the results with Carsim:
 ![](animation1.gif)
